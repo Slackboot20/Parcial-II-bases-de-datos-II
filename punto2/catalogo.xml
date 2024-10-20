@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<catalogo>
+    <productos id="1">
+        <nombre>Laptop</nombre>
+        <descripcio>Laptop Dell Inspiron</descripcio>
+        <precio>2000000</precio>
+        <stock>50</stock>
+    </productos>
+    <productos id="2">
+        <nombre>Mouse</nombre>
+        <descripcio>Mouse inlamabrico Logitech</descripcio>
+        <precio>60000</precio>
+        <stock>50</stock>
+    </productos>
+    <productos id="3">
+        <nombre>Teclado</nombre>
+        <descripcio>Teclado mecanico Corsair</descripcio>
+        <precio>120000</precio>
+        <stock>50</stock>
+    </productos>
+    <productos id="4">
+        <nombre>Monitor</nombre>
+        <descripcio>Monito LG 24 pulgadas</descripcio>
+        <precio>1500000</precio>
+        <stock>40</stock>
+    </productos>
+    <productos id="5">
+        <nombre>Impresora</nombre>
+        <descripcio>Impresora HP LaseJet</descripcio>
+        <precio>3000000</precio>
+        <stock>55</stock>
+    </productos>
+</catalogo>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empleados SYSTEM "empleados.dtd">
+<empleados>
+    <empleado id="e1">
+        <nombre>Nicolas Llamas</nombre>
+        <departamento>Desarrollo</departamento>
+        <salario>3000000</salario>
+    </empleado>
+    <empleado id="e2">
+        <nombre>Emili Carvajal</nombre>
+        <departamento>Marketing</departamento>
+        <salario>2300000</salario>
+    </empleado>
+    <empleado id="e3">
+        <nombre>Kevin Giraldo</nombre>
+        <departamento>Recursos Humanos</departamento>
+        <salario>1600000</salario>
+    </empleado>
+</empleados>

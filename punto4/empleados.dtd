@@ -1,0 +1,6 @@
+<!ELEMENT empleados (empleado+)>
+<!ELEMENT empleado (nombre, departamento, salario) >
+<!ATTLIST empleado id ID #REQUIRED>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT departamento (#PCDATA)>
+<!ELEMENT salario (#PCDATA)>
