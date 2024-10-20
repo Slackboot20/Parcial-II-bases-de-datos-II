@@ -1,0 +1,44 @@
+<resumenEncuestas>
+    <ciudad nombre="Pereira">
+        <personasEncuestadas>100</personasEncuestadas>
+        <transportes>
+            <transporte tipo="Taxi">
+                <cantidad>20</cantidad>
+            </transporte>
+            <transporte tipo="articulado masivo">
+                <cantidad>50</cantidad>
+            </transporte>
+            <transporte tipo="buseta">
+                <cantidad>30</cantidad>
+            </transporte>
+        </transportes>
+    </ciudad>
+    <ciudad nombre="medellin">
+        <personasEncuestadas>200</personasEncuestadas>
+        <transportes>
+            <transporte tipo="metro">
+                <cantidad>80</cantidad>
+            </transporte>
+            <transporte tipo="buseta">
+                <cantidad>30</cantidad>
+            </transporte>
+            <transporte tipo="taxi">
+                <cantidad>90</cantidad>
+            </transporte>
+        </transportes>
+    </ciudad>
+    <ciudad nombre="bogota">
+        <personasEncuestadas>300</personasEncuestadas>
+        <transportes>
+            <transporte tipo="articulado masivo">
+                <cantidad>100</cantidad>
+            </transporte>
+            <transporte tipo="buseta">
+                <cantidad>100</cantidad>
+            </transporte>
+            <transporte tipo="taxi">
+                <cantidad>100</cantidad>
+            </transporte>
+        </transportes>
+    </ciudad>
+</resumenEncuestas>

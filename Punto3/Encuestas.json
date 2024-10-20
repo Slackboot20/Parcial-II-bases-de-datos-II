@@ -1,0 +1,54 @@
+[{
+    "ciudad": "Pereira",
+    "personas_encuestadas": 100,
+    "transporte_utilizado": [
+        {
+            "transporte": "Taxi",
+            "cantidad": 20
+        },
+        {
+            "transporte": "articulado masivo",
+            "cantidad": 50
+        },
+        {
+            "transporte": "buseta",
+            "cantidad": 30
+        }
+    ]
+},
+{
+    "ciudad": "medellin",
+    "personas_encuestadas": 200,
+    "transporte_utilizado": [
+        {
+            "transporte": "metro",
+            "cantidad": 80
+        },
+        {
+            "transporte": "buseta",
+            "cantidad": 30
+        },
+        {
+            "transporte": "taxi",
+            "cantidad": 90
+        }
+    ]
+},
+{
+    "ciudad": "bogota",
+    "personas_encuestadas": 300,
+    "transporte_utilizado": [
+        {
+            "transporte": "articulado masivo",
+            "cantidad": 100
+        },
+        {
+            "transporte": "buseta",
+            "cantidad": 100
+        },
+        {
+            "transporte": "taxi",
+            "cantidad": 100
+        }
+    ]
+}]
